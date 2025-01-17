@@ -30,6 +30,7 @@ form.onsubmit = (event)=>{
     amount.value = ""
     expense.value = ""
     category.value = ""
+    expense.focus()
 }
 
 
